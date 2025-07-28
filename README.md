@@ -1,7 +1,3 @@
-Sure! Here's a short and clear `README.md` for your PHP web project for buying, selling, and renting books:
-
----
-
 # BookBazaar – PHP Book Marketplace
 
 **BookBazaar** is a simple PHP-based web application that allows users to **buy, sell, and rent books**. It provides a user-friendly interface to manage book listings and transactions.
